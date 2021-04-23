@@ -1,8 +1,6 @@
 ## Hi어이 there거기 👋
 
 ### 🛠 Tech Stack 🛠
-
-### Major
 - Spring, SpringBoot, SpringSecurity, Kotlin, Java, JPA
 - Flask, Python, SqlAlchemy
 - Container: Docker, Dokku, DockerSwarm, Kubernetes, Helm, AWS ECS, AWS EKS
