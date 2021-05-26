@@ -1,37 +1,35 @@
-## Hi어이 there거기 👋
+## Hi there 👋
 
 ### 🛠 Tech Stack 🛠
-- Spring, SpringBoot, SpringSecurity, Kotlin, Java, JPA
+- Spring, SpringBoot, SpringData, SpringSecurity, Kotlin, Java, JPA
 - Flask, Python, SqlAlchemy
 - Container: Docker, Dokku, DockerSwarm, Kubernetes, Helm, AWS ECS, AWS EKS
 - Message: Kafka, Faust, AWS MSK
 - IaC: Ansible, Terraform, Vagrant
 
 ### 🔭 I’m currently working on ...
-[sec]
+- Home
 
 ### 🌱 I’m currently learning ...
 - CI/CD: GithubAction, GitlabAction
 - Container: Podman, Vault
-- Coin: Mainnet
-- Network: NFS
 - Linux: Debian Preseed
-- Auth: CAS, Keycloak, OAuth2, OpenID, Radius, LDAP, Kerberos
-- Flutter
 
 ### 😄 I’m interested in ...
 - CI/CD: Jenkins, Drone
-- Container: Nomad, Consul
+- Auth: CAS, Keycloak, OAuth2, OpenID, Radius, LDAP, Kerberos
+- Container: Nomad, Consul, Podman, Vault, Zookeeper
 - Message: KafkaStreams, Faust
 - Network: NFV
+- Coin: Mainnet, Sawtooth, Hyperledger
 - Storage: Minio, AWS S3, Ceph, NFS
 - Quant: Grabber, ML, Finance
 - IaC: Packer
 - Functional language: Clojure, Scala
 - EDA: Flink
-- Linux: Kernel
-- Rust
-
+- Linux: Kernel, Kickstart, Preseed
+- Languege: Go, Rust
+- Mobile: Flutter, KMP
 
 ### ⚡ Fun fact: ...
 - 주식/파생/펀드 상담사
