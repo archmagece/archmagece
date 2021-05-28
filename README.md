@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 ### 🛠 Tech Stack 🛠
-- Spring, SpringBoot, SpringData, SpringSecurity, Kotlin, Java, JPA
+- Spring, JPA, SpringBoot, SpringData, SpringSecurity, Kotlin, Java
 - Flask, Python, SqlAlchemy
 - Container: Docker, Dokku, DockerSwarm, Kubernetes, Helm, AWS ECS, AWS EKS
 - Message: Kafka, Faust, AWS MSK
 - IaC: Ansible, Terraform, Vagrant
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working at ...
 - Home
 
 ### 🌱 I’m currently learning ...
@@ -15,7 +15,7 @@
 - Container: Podman, Vault
 - Linux: Debian Preseed
 
-### 😄 I’m interested in ...
+### 😄 I’m interested in ... (not professional)
 - CI/CD: Jenkins, Drone
 - Auth: CAS, Keycloak, OAuth2, OpenID, Radius, LDAP, Kerberos
 - Container: Nomad, Consul, Podman, Vault, Zookeeper
@@ -26,9 +26,9 @@
 - Quant: Grabber, ML, Finance
 - IaC: Packer
 - Functional language: Clojure, Scala
+- Languege: Go, Rust
 - EDA: Flink
 - Linux: Kernel, Kickstart, Preseed
-- Languege: Go, Rust
 - Mobile: Flutter, KMP
 
 ### ⚡ Fun fact: ...
