@@ -7,8 +7,14 @@
 - Message: Kafka, Faust, AWS MSK
 - IaC: Ansible, Terraform, Vagrant
 
-### 🔭 I’m currently working at ...
-- Home
+### 🔭 Experts
+
+## High
+- Keycloak
+- Spring
+
+## Mid
+- namojida
 
 ### 🌱 I’m currently learning ...
 - CI/CD: GithubAction, GitlabAction
