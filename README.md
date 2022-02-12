@@ -100,7 +100,6 @@ Hi there 👋
   - Dokku, AWS ECS
 - ETC
   - Zookeeper
-  - Flink
   - Vault
   - NFV
 - Quant: Grabber, ML, Finance
