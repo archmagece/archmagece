@@ -3,70 +3,70 @@ Hi there 👋
 
 ## 🛠 Tech Stack 🛠
 
-### 🔭 Experts
-- KotlinOnSpring
+### 🔭 전문분야 Experts
+- KotlinOnSpring:
   JPA, SpringData, SpringSecurity, SpringAMQP, SpringBatch, SpringCache, KtorClient
-- PythonOnFlask
+- PythonOnFlask:
   SqlAlchemy
-- Container
+- Container:
   Docker, Docker Swarm, Kubernetes(AWS EKS), AWS ECS, 
-- Database
+- Database:
   MySQL(MariaDB)
-- Cache
+- Cache:
   Redis
-- DevOps
+- DevOps:
   Argo, GithubAction
-- IaC
+- IaC:
   Terraform, Vagrant, Helm, Kustomize, Helmsman, Helmfile
-- Auth
+- Auth:
   OAuth2, Keycloak
-- Message
+- Message:
   Kafka, RabbitMQ
-- Cloud
+- Cloud:
   Heroku, AWS, Ncloud
-- Storage
+- Storage:
   Minio, AWS S3
 
-### 🤔 Sub
-- ElasticSearch
-- DevOps
+### 🤔 사용가능 Sub
+- ElasticSearch:
+- DevOps:
   Jenkins, Drone, GitlabAction
-- IaC
+- IaC:
   Packer, Ansible
-- Auth
-  CAS, OpenID, Radius, LDAP, Kerberos
-- Container
+- Container:
   Nomad, Consul, Podman, Dokku, K3s
-- Database
+- Database:
   Postgres, Oracle, Mongodb
-- Cache
+- Cache:
   Ehcache, Memcached
-- Cloud
+- Cloud:
   GCP, DigitalOcean
-- BlockChain
+- BlockChain:
   Hyperledger
-- Languege
+- Languege:
   Go, Python, TypeScript, Ruby
-- Message
-  Flink
 
-### 😄 I’m interested in ... (not professional)
-- BlockChain
+### 😄 관심만 있거나 그냥 사용자입장 I’m interested in ... (not professional)
+- BlockChain:
   Sawtooth, Ethereum(Solidity), Solana
-- Container
+- Container:
   AppImage, Dokku, AWS ECS
-- Storage
+- Auth:
+  CAS, OpenID, Radius, LDAP, Kerberos
+- Storage:
   Ceph, NFS
-- ETC
-  Zookeeper, Vault, NFV
-- Quant
+- Quant:
   Grabber, ML, Finance
-- Mobile
+- Mobile:
   Flutter, KMP
-- OS
+- OS:
   Linux Kernel, Kickstart, Preseed, Debian
-- Languege
-  Rust, 
+- Languege:
+  Rust, Clojure
+- Message:
+  Flink, Spark
+- ETC:
+  Zookeeper, Vault, NFV
 
 ## ⚡ Fun fact: ...
 - 주식/파생/펀드 상담사
