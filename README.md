@@ -5,108 +5,68 @@ Hi there 👋
 
 ### 🔭 Experts
 - KotlinOnSpring
-  - JPA, SpringData
-  - SpringSecurity
-  - SpringAMQP
-  - SpringBatch
-  - SpringCache
-  - KtorClient
+  JPA, SpringData, SpringSecurity, SpringAMQP, SpringBatch, SpringCache, KtorClient
 - PythonOnFlask
-  - SqlAlchemy
+  SqlAlchemy
 - Container
-  - Docker: Docker Swarm, Kubernetes(AWS EKS), AWS ECS, 
+  Docker, Docker Swarm, Kubernetes(AWS EKS), AWS ECS, 
 - Database
-  - Redis
+  MySQL(MariaDB)
 - Cache
-  - MySQL(MariaDB)
+  Redis
 - DevOps
-  - Argo
-  - GithubAction
-  - IaC
-    - Terraform
-    - Vagrant
-    - Helm
-    - Kustomize
+  Argo, GithubAction
+- IaC
+  Terraform, Vagrant, Helm, Kustomize, Helmsman, Helmfile
 - Auth
-  - OAuth2
-  - Keycloak
+  OAuth2, Keycloak
 - Message
-  - Kafka
-  - RabbitMQ
+  Kafka, RabbitMQ
 - Cloud
-  - Heroku
-  - AWS
-  - Ncloud
+  Heroku, AWS, Ncloud
 - Storage
-  - Minio
-  - AWS S3
-- Languege
-  - Kotlin
-  - Python
+  Minio, AWS S3
 
 ### 🤔 Sub
 - ElasticSearch
 - DevOps
-  - Jenkins
-  - JenkinsX
-  - Drone
-  - GitlabAction
-  - IaC
-    - Packer
-    - Ansible
+  Jenkins, Drone, GitlabAction
+- IaC
+  Packer, Ansible
 - Auth
-  - CAS
-  - OpenID
-  - Radius
-  - LDAP
-  - Kerberos
+  CAS, OpenID, Radius, LDAP, Kerberos
 - Container
-  - Nomad
-  - Consul
-  - Podman
-  - Dokku
+  Nomad, Consul, Podman, Dokku, K3s
 - Database
-  - Postgres
-  - Oracle
-  - Mongodb
+  Postgres, Oracle, Mongodb
 - Cache
-  - Ehcache
-  - Memcached
+  Ehcache, Memcached
 - Cloud
-  - GCP
-- Storage
-  - Ceph
-  - NFS
+  GCP, DigitalOcean
+- BlockChain
+  Hyperledger
 - Languege
-  - Go
-  - Clojure
-- ETC
-  - Flink
+  Go, Python, TypeScript, Ruby
+- Message
+  Flink
 
 ### 😄 I’m interested in ... (not professional)
-- Container
-  - Podman
 - BlockChain
-  - Mainnet
-  - Sawtooth
-  - Hyperledger
-  - Ethereum(Solidity)
-  - Solana
+  Sawtooth, Ethereum(Solidity), Solana
 - Container
-  - Podman
-  - AppImage
-  - DockerSwarm
-  - Kubernetes(K8s, AWS EKS)
-  - Dokku, AWS ECS
+  AppImage, Dokku, AWS ECS
+- Storage
+  Ceph, NFS
 - ETC
-  - Zookeeper
-  - Vault
-  - NFV
-- Quant: Grabber, ML, Finance
-- Mobile: Flutter, KMP
-- OS: Linux Kernel, Kickstart, Preseed, Debian
+  Zookeeper, Vault, NFV
+- Quant
+  Grabber, ML, Finance
+- Mobile
+  Flutter, KMP
+- OS
+  Linux Kernel, Kickstart, Preseed, Debian
 - Languege
-  - Rust
+  Rust, 
 
 ## ⚡ Fun fact: ...
 - 주식/파생/펀드 상담사
