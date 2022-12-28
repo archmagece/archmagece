@@ -6,20 +6,21 @@ Hi there 👋
 ### 🔭 전문분야 Experts
 - KotlinOnSpring:
   JPA, SpringData, SpringSecurity, SpringAMQP, SpringBatch, SpringCache, KtorClient
-- PythonOnFlask:
-  SqlAlchemy
+- Auth
+  Keycloak, OAuth
 - Container:
   Docker, Docker Swarm, Kubernetes(AWS EKS), AWS ECS, 
 - Database:
   MySQL(MariaDB)
 - Cache:
   Redis
+### 😄 서브
+- PythonOnFlask:
+  SqlAlchemy
 - DevOps:
   Argo, GithubAction
 - IaC:
   Terraform, Vagrant, Helm, Kustomize, Helmsman, Helmfile
-- Auth:
-  OAuth2, Keycloak
 - Message:
   Kafka, RabbitMQ
 - Cloud:
@@ -27,7 +28,7 @@ Hi there 👋
 - Storage:
   Minio, AWS S3
 
-### 🤔 사용가능 Sub
+### 🌱 사용가능 SubSub
 - ElasticSearch:
 - DevOps:
   Jenkins, Drone, GitlabAction
