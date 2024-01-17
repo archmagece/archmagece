@@ -2,12 +2,61 @@ Hi there 👋
 ===========
 
 ## 🛠 Tech Stack 🛠
-- Github
-- LeagueOfLegends
-- WalkScience
+- Kotlin on Spring 및 생태계
+  - Spring Data + JPA
+  - Spring Security
+  - Mybatis
+  - Gradle
+- Docker 
+  - K8s
+  - docker-compose
+  - istio
+  - traefik
+  - helm
+  - operator
+- Python
+  - FastAPI
+  - Sqlalchemy
+  - Faust(KafkaStreams)
+- Kafka
+  - KafkaStreams
+- RabbitMQ
+  - DLQ
+- ElasticSearch
+- Auth
+  - OAuth
+  - Keycloak + SPI 커스텀
+  - Ory
+  - JWT
+- Data
+  - MySQL, MariaDB
+  - PostgreSQL
+  - Redis
+- Cloud
+  - AWS
+  - Cloudflare
+  - GCP
+- DevOps
+  - ArgoCD
+  - GithubAction
+  - Pulumi
+  - Terraform
 
-## ⚡ Fun fact: ...
+## 🤔 취미용
+- Ruby On Rails
+  - 7
+  - Active Admin
+- Golang
+- SvelteKit
+  - prisma
+- hono
+- 이미지 생성 AI webui
+- Vagrant
+- Ansible
+
+## ⚡ Fun fact ...
 - 주식/파생/펀드 상담사
+- ???? 1급, 대형, 소형
 - 정보처리기사
 - 유통관리2급
 
