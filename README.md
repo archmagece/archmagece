@@ -1,58 +1,97 @@
 Hi there 👋
 ===========
+등급 - H: 능숙, M: 프로덕트 사용경험, L: 몇번 써봄
 
 ## 🛠 Tech Stack 🛠
-- Kotlin on Spring 및 생태계
-  - Spring Data + JPA
-  - Spring Security
-  - Mybatis
-  - Gradle
-- Docker 
-  - K8s
+
+[//]: # (### 개발방법론)
+[//]: # (- DevOps)
+[//]: # (- Agile)
+[//]: # (- DDD)
+[//]: # (- Hexagonal)
+[//]: # (- CleanCode)
+
+### Web Language & Framework
+- [H] Kotlin on Spring 및 생태계\
+  https://github.com/ScriptonBasestar-samples/sb-samples-springboot
+  - [H] Spring Data + JPA
+  - [H] Spring Security
+  - [H] Mybatis
+  - [H] Gradle
+  - [M] Maven
+  - [L] Thymeleaf
+
+- [M] Python on FastAPI
+  - [L] Sqlalchemy
+  - [L] Faust(KafkaStreams)
+  - [L] pandas
+
+- [L] React
+
+### Cloud
+- [M] AWS
+- [L] GCP
+- [L] Cloudflare
+
+### DevOps
+- [H] Docker\
+  https://github.com/ScriptonBasestar-container/sb-docker-images
   - docker-compose
-  - istio
-  - traefik
-  - helm
-  - operator
-- Python
-  - FastAPI
-  - Sqlalchemy
-  - Faust(KafkaStreams)
-- Kafka
-  - KafkaStreams
-- RabbitMQ
-  - DLQ
-- ElasticSearch
-- Auth
-  - OAuth
-  - Keycloak + SPI 커스텀
-  - Ory
-  - JWT
+  - docker swarm
+- [H] K8s
+- [L] istio
+- [M] traefik
+- [H] helm\
+  https://github.com/ScriptonBasestar-container/sb-helm-charts
+- [L] operator
+
+### Message
+- [M] Kafka
+  - [L] KafkaStreams
+- [M] RabbitMQ
+  - [L] DLQ
+
+### ELT
+- [L] ElasticSearch
+- [L] FluentBit
+
+### Auth
+- [L] OAuth
+- [H] Keycloak + SPI 커스텀\
+- [H] JWT
+  https://github.com/ScriptonBasestar/sb-keycloak-exts
+
+[//]: # (- [L] Ory)
+[//]: # (- [L] Kerberos)
+[//]: # (- [L] LDAP)
+
+### Data
 - Data
   - MySQL, MariaDB
   - PostgreSQL
   - Redis
-- Cloud
-  - AWS
-  - Cloudflare
-  - GCP
 - DevOps
   - ArgoCD
   - GithubAction
   - Pulumi
   - Terraform
 
+## Legacy
+- Vagrant
+- jQuery
+- jsp
+- spring xml config, java config
+
 ## 🤔 취미용
 - Ruby On Rails
-  - 7
-  - Active Admin
 - Golang
 - SvelteKit
+  - typescript
   - prisma
 - hono
 - 이미지 생성 AI webui
-- Vagrant
 - Ansible
+
 
 ## ⚡ Fun fact ...
 - 주식/파생/펀드 상담사
