@@ -26,11 +26,11 @@ Hi there 👋
   - [L] Faust(KafkaStreams)
   - [L] pandas
 
-- [L] React
+[//]: # (- [L] React)
 
 ### Cloud
 - [M] AWS
-- [L] GCP
+[//]: # (- [L] GCP)
 - [L] Cloudflare
 
 ### DevOps
@@ -38,7 +38,9 @@ Hi there 👋
   https://github.com/ScriptonBasestar-container/sb-docker-images
   - docker-compose
   - docker swarm
-- [H] K8s
+- [M] Kubernetes
+  - [M] K8s
+  - [M] K3s
 - [L] istio
 - [M] traefik
 - [H] helm\
@@ -57,9 +59,10 @@ Hi there 👋
 
 ### Auth
 - [L] OAuth
-- [H] Keycloak + SPI 커스텀\
-- [H] JWT
+- [H] Keycloak
   https://github.com/ScriptonBasestar/sb-keycloak-exts
+  - SPI 확장기능 개발
+- [H] JWT
 
 [//]: # (- [L] Ory)
 [//]: # (- [L] Kerberos)
@@ -67,18 +70,22 @@ Hi there 👋
 
 ### Data
 - Data
-  - MySQL, MariaDB
-  - PostgreSQL
-  - Redis
-- DevOps
-  - ArgoCD
-  - GithubAction
-  - Pulumi
-  - Terraform
+  - [M] MySQL, MariaDB
+  - [L] PostgreSQL
+  - [M] Redis
+
+### DevOps
+  - [M] ArgoCD
+  - [M] GithubAction
+  - [L] Pulumi
+  - [M] Terraform
 
 ## Legacy
 - Vagrant
+- VirtualBox
 - jQuery
+- Java
+- Jenkins
 - jsp
 - spring xml config, java config
 
