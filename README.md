@@ -12,57 +12,37 @@ Hi there 👋
 [//]: # (- CleanCode)
 
 ### Web Language & Framework
-- [H] Kotlin on Spring 및 생태계\
-  https://github.com/ScriptonBasestar-samples/sb-samples-springboot
-  - [H] Spring Data + JPA
-  - [H] Spring Security
-  - [H] Mybatis
-  - [H] Gradle
-  - [M] Maven
-  - [L] Thymeleaf
+- Kotlin on Spring 및 생태계
 
-- [M] Python on FastAPI
-  - [L] Sqlalchemy
-  - [L] Faust(KafkaStreams)
-  - [L] pandas
-
-[//]: # (- [L] React)
+Spring Data + JPA, Spring Security, Mybatis, Gradle, Maven, JSP, Thymeleaf
 
 ### Cloud
-- [M] AWS
-[//]: # (- [L] GCP)
-- [L] Cloudflare
+- AWS
+- Cloudflare
+- NCloud
 
 ### DevOps
-- [H] Docker\
-  https://github.com/ScriptonBasestar-container/sb-docker-images
+- Docker
   - docker-compose
   - docker swarm
-- [M] Kubernetes
-  - [M] K8s
-  - [M] K3s
-- [L] istio
-- [M] traefik
-- [H] helm\
-  https://github.com/ScriptonBasestar-container/sb-helm-charts
-- [L] operator
+- Kubernetes
+  - K8s(매니지드)
+  - K3s
+- istio
+- traefik
+- helm
+- ArgoCD
+- GithubAction
+- Terraform
 
-### Message
-- [M] Kafka
-  - [L] KafkaStreams
-- [M] RabbitMQ
-  - [L] DLQ
-
-### ELT
-- [L] ElasticSearch
-- [L] FluentBit
-
-### Auth
-- [L] OAuth
-- [H] Keycloak
-  https://github.com/ScriptonBasestar/sb-keycloak-exts
-  - SPI 확장기능 개발
-- [H] JWT
+### ETC
+- Kafka
+- RabbitMQ
+- ElasticSearch
+- FluentBit
+- OAuth
+- Keycloak
+- JWT
 
 [//]: # (- [L] Ory)
 [//]: # (- [L] Kerberos)
@@ -75,10 +55,6 @@ Hi there 👋
   - [M] Redis
 
 ### DevOps
-  - [M] ArgoCD
-  - [M] GithubAction
-  - [L] Pulumi
-  - [M] Terraform
 
 ## Legacy
 - Vagrant
@@ -98,7 +74,6 @@ Hi there 👋
 - hono
 - 이미지 생성 AI webui
 - Ansible
-
 
 ## ⚡ Fun fact ...
 - 주식/파생/펀드 상담사
