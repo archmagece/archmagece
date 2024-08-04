@@ -1,6 +1,5 @@
-Hi there 👋
+방문 감사합니다 👋
 ===========
-등급 - H: 능숙, M: 프로덕트 사용경험, L: 몇번 써봄
 
 ## 🛠 Tech Stack 🛠
 
@@ -11,10 +10,21 @@ Hi there 👋
 [//]: # (- Hexagonal)
 [//]: # (- CleanCode)
 
-### Web Language & Framework
-- Kotlin on Spring 및 생태계
+### Web Language & Framework & Eco System
 
-Spring Data + JPA, Spring Security, Mybatis, Gradle, Maven, JSP, Thymeleaf
+#### Kotlin on Spring
+
+기본 스텍
+- Spring Data + JPA, Spring Security, Mybatis, Gradle, Maven, JSP, Thymeleaf
+
+추가스텍
+- Webflux, SpringCloudGateway, SpringKafka
+
+#### 기타
+
+- PythonOnDjango
+- Sveltekit, Turbo, Vite
+- RubyOnRails
 
 ### Cloud
 - AWS
@@ -49,10 +59,9 @@ Spring Data + JPA, Spring Security, Mybatis, Gradle, Maven, JSP, Thymeleaf
 [//]: # (- [L] LDAP)
 
 ### Data
-- Data
-  - [M] MySQL, MariaDB
-  - [L] PostgreSQL
-  - [M] Redis
+- MySQL, MariaDB
+- PostgreSQL
+- Redis
 
 ### DevOps
 
