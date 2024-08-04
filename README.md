@@ -3,7 +3,7 @@
 
 ## 참고 프로젝트
 
-- https://github.com/ScriptonBasestar-io/deproxy[https://github.com/ScriptonBasestar-io/deproxy]
+- https://github.com/ScriptonBasestar-io/deproxy
 
 ## 🛠 Tech Stack 🛠
 
