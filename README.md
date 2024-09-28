@@ -1,7 +1,7 @@
-방문 감사합니다 👋
+안녕하세요🙏 🙏 🙏
 ===========
 
-## 개인 공개 프로젝트
+## 쓸만한 링크
 
 - https://github.com/ScriptonBasestar-io/deproxy
 
